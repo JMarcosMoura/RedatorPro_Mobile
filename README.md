@@ -17,7 +17,7 @@ Esse repositório é um breve protótipo da aplicação móvel RedatorPro. O app
 
 • __Rotas:__ Navegação simples e eficiente entre diferentes seções da aplicação.
 
-• __JSON:__ Estrutura de dados para para alimentar dinâmicaemnte algumas páginas do app, como a lista de corretores com seus respectivos dados.
+• __JSON:__ Estrutura de dados para para alimentar dinamicamente algumas páginas do app, como a lista de corretores com seus respectivos dados.
 
 ##
 
