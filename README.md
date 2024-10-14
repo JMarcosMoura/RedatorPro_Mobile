@@ -1,6 +1,6 @@
 ### RedatorPro
 
-Esse repositório é um breve protótipo da aplicação móvel RedatorPro. O app foi construído com Framework7 e Cordova, sendo projetado para demonstrar como seria a tela inicial do aplicativo, como também o recurso de procuurar e favoritar corretores. 
+Esse repositório é um breve protótipo da aplicação móvel RedatorPro. O app foi construído com Framework7 e Cordova, sendo projetado para demonstrar como seria a tela inicial do aplicativo, como também o recurso de procurar e favoritar corretores. 
 
 ##
 
