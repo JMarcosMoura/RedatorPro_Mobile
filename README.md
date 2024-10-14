@@ -46,11 +46,11 @@ Nesse repositório você tem acesso ao app na sua "versão web", basta clonar o 
 
 2. Clone este repositório;
 
-3. Navegue até a pasta do projeto e e substitua a pasta www do projeto pela pasta www desse repositório;
+3. Navegue até a pasta do projeto e substitua a pasta www do projeto pela pasta www _desse repositório_;
 
-4. Execute _npm install_ para instalar as dependências;
+4. Execute o _npm install_ para instalar as dependências;
 
-5. Utilize cordova run android para compilar e executar no dispositivo Android.
+5. Utilize cordova _run android_ para compilar e executar no dispositivo Android.
 
 ##
 
