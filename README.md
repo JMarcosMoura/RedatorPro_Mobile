@@ -1,6 +1,6 @@
 ### RedatorPro
 
-Esse repositório é um breve protótipo da aplicação móvel RedatorPro. O app foi construído com Framework7 e Cordova, sendo projetado para demonstrar como seria a tela de inicial do aplicativo, como também o recurso de procuurar e favoritar corretores. 
+Esse repositório é um breve protótipo da aplicação móvel RedatorPro. O app foi construído com Framework7 e Cordova, sendo projetado para demonstrar como seria a tela inicial do aplicativo, como também o recurso de procuurar e favoritar corretores. 
 
 ##
 
@@ -40,7 +40,7 @@ Esse repositório é um breve protótipo da aplicação móvel RedatorPro. O app
 
 ### Como Executar
 
-Nesse repositório você tem acesso ao app na sua "versão" web, basta clonar o repositório e executar o arquivo index.html; mas caso você esteja familiarizado com o Cordova, poderá compilar o projeto para ser executado no Android:
+Nesse repositório você tem acesso ao app na sua "versão web", basta clonar o repositório e executar o arquivo index.html; mas caso você esteja familiarizado com o Cordova, poderá compilar o projeto para ser executado no Android:
 
 1. Crie um novo projeto Cordova;
 
