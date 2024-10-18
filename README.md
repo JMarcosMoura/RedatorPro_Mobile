@@ -54,6 +54,4 @@ Nesse repositório você tem acesso ao app na sua "versão web", basta clonar o 
 
 ##
 
-### Conheça:
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/redatorpro_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+**StudyTech**
